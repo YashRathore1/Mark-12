@@ -1,5 +1,2 @@
-# Mark 13
+## build triangles
 
-Palindrom Birthday
-
-App which checks whether your birthday is a palindrome birthday or not.
